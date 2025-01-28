@@ -88,6 +88,7 @@ Please submit a pull request if there is any material that you think should be i
 - [Learn SQL in a Month of Lunches](https://www.manning.com/books/learn-sql-in-a-month-of-lunches)
 - [ScyllaDB in Action](https://www.manning.com/books/scylladb-in-action)
 - [DuckDB in Action](https://www.manning.com/books/duckdb-in-action)
+- [Just Use Postgres!](https://www.manning.com/books/just-use-postgres)
 
 ### Talks
 
